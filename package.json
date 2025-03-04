@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+  "@hapi/boom": "^10.0.1",
+  "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+  "node-telegram-bot-api": "^0.66.0",
+  "pino": "^9.5.0",
+  "axios": "^1.6.0"
+  },
+  "name": "© Siro EsCanor",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "© Siro EsCanor",
+  "license": "ISC",
+  "description": ""
+}
